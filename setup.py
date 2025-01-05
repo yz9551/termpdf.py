@@ -10,12 +10,13 @@ setup(name='termpdf.py',
       url='https://github.com/dsanson/termpdf.py',
       scripts=['termpdf.py'],
       requires=[
-          'PyMuPDF', 
-          'pyperclip', 
-          'pdfrw', 
-          'pybtex', 
-          'pynvim', 
+          'PyMuPDF',
+          'pyperclip',
+          'pdfrw',
+          'pybtex',
+          'pynvim',
           'roman',
           'pagelabels'
-          ]
-     )
+      ]
+      )
+
